@@ -1,7 +1,7 @@
 FROM debian:bullseye-slim
 
 # Set environment defaults
-ENV TAILSCALE_HOSTNAME=""
+ENV TAILSCALE_HOSTNAME="Render USA"
 ENV TAILSCALE_ADDITIONAL_ARGS=""
 
 # Install required tools INCLUDING PYTHON for web server
